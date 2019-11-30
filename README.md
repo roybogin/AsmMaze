@@ -7,4 +7,4 @@ The game contains a high score system that records the highest score achieved an
 
 This project was made using MASM32.
 
-The libraries adp_gui and heinemannlib were writted by Ido Heinemann.
+The libraries adp_gui and heinemannlib were writted by [Ido Heinemann](https://www.github.com/idoheinemann).
