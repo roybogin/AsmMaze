@@ -8,7 +8,7 @@ The game contains a high score system that records the highest score achieved an
 ![](ReadmeImages/MazeGame.png)
 
 
-![](ReadmeImages/MazeWin.png)
+![](ReadmeImages/MazeGame.png)
 
 
 This project was made using MASM32.
